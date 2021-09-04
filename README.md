@@ -1,7 +1,7 @@
-### Hi there 👋
-😄I’m currently learning Data Analytics 
+### Hi there, Techie👋
+I’m currently learning Data Analytics😜
 
-⚡ Fun fact: i just opened a git account out of all these years 
+⚡ Fun fact: i just opened a git to test this readme 🤣 
 
 ![enter image descriptihttps://github-readme-stats.vercel.app/api?username=itsjays&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515on here](https://github-readme-stats.vercel.app/api?username=itsjays&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 <!--
