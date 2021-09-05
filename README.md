@@ -4,6 +4,10 @@ I’m currently learning Data Analytics😜
 ⚡ Fun fact: i just opened this git to test this readme 🤣 
 
 ![enter image descriptihttps://github-readme-stats.vercel.app/api?username=itsjays&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515on here](https://github-readme-stats.vercel.app/api?username=itsjays&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
+![Visitor Count](https://profile-counter.glitch.me/{itsjays}/count.svg)
+
+
 <!--
 **itsjays/itsjays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
