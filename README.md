@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jaysuriya</h1>
+<h1 align="center">Hi 👋, I'm Jayasuriya</h1>
 <h3 align="center">Data enthusiast | Data integration & operations</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsjays&label=Profile%20views&color=0e75b6&style=flat" alt="itsjays" /> </p>
