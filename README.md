@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **stuffs relating to Python-Data science**
 
-- 📝 I try to scribble on [jayasuriya.hashnode.dev](jayasuriya.hashnode.dev)
+- 📝 I try to scribble on [Jayasuriya](jayasuriya.hashnode.dev)
 
 - 💬 Ask me about **Teradata, Hadoop,**
 
